@@ -2,7 +2,7 @@
 
 Thanks for visiting this repo :D
 
-- I generate key financial and SaaS metric visualizations for [redacted] startup using Matplotlib and Seaborn. These charts help analyse the company’s performance and support the investment decision-making process!
+- I generate key financial and SaaS metric visualisations for [redacted] startup using Matplotlib and Seaborn. These charts help analyse the company’s performance and support the investment decision-making process!
 
 ### Visualisations Included:
 1. **ARR Growth Over Time (Line Chart)**
@@ -17,3 +17,7 @@ Thanks for visiting this repo :D
 4. **Net Burn Rate Over Time (Line Chart)**
 - Plots the net burn rate per quarter.
 - Assesses cash consumption and sustainability.
+
+
+*Project Started: 01.03.25*
+*Project Finished: 02.03.25*
