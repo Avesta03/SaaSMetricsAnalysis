@@ -1,0 +1,14 @@
+Sales Efficiency = Net New ARR / Sales & Marketing Expense.
+
+'21:
+Net New ARR = $4.444M.
+Sales & Marketing Expense = $3.837M.
+Sales Efficiency = $4.444M / $3.837M ≈ 1.16.
+
+
+'22: 
+Net New ARR = $5.547M.
+Sales & Marketing Expense = $6.349M.
+Sales Efficiency = $5.547M / $6.349M ≈ 0.87.
+
+=> Decrease from 1.16 in 2021 to 0.87 in 2022 suggests reduced efficiency, probs due to increased investment in scaling operations.
